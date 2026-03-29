@@ -1,3 +1,5 @@
+.env
+*.md
 onet_data/
 national_M2024_dl.xlsx
 AIOE_DataAppendix.xlsx
