@@ -1,0 +1,238 @@
+Task ID,Occupation,Task,importance,claude_score,claude_confidence,claude_reasoning
+21311,Financial Managers,Establish and maintain relationships with individual or business customers or provide assistance with problems these customers may encounter.,4.3,1,high,client_relationship_trust
+21319,Financial Managers,Oversee the flow of cash or financial instruments.,4.2,3,high,cash_flow_monitoring
+21312,Financial Managers,"Plan, direct, or coordinate the activities of workers in branches, offices, or departments of establishments, such as branch banks, brokerage firms, risk and insurance departments, or credit departments.",4.13,2,high,management_coordination
+21313,Financial Managers,Recruit staff members.,3.78,2,high,recruitment_judgment
+21315,Financial Managers,Evaluate data pertaining to costs to plan budgets.,3.61,3,high,budget_data_analysis
+21316,Financial Managers,Oversee training programs.,3.47,2,high,training_oversight
+21327,Financial Managers,"Establish procedures for custody or control of assets, records, loan collateral, or securities to ensure safekeeping.",4.38,3,medium,custody_policy_setting
+21322,Financial Managers,Communicate with stockholders or other investors to provide information or to raise capital.,4.24,1,high,investor_communication
+21321,Financial Managers,Develop or analyze information to assess the current or future financial status of firms.,4.14,3,high,financial_status_analysis
+21318,Financial Managers,"Approve, reject, or coordinate the approval or rejection of lines of credit or commercial, real estate, or personal loans.",4.09,2,high,loan_approval_judgment
+21320,Financial Managers,"Prepare financial or regulatory reports required by laws, regulations, or boards of directors.",4.04,3,high,regulatory_reporting
+21317,Financial Managers,"Examine, evaluate, or process loan applications.",3.98,3,high,loan_evaluation_mixed
+21323,Financial Managers,"Evaluate financial reporting systems, accounting or collection procedures, or investment activities and make recommendations for changes to procedures, operating systems, budgets, or other financial control functions.",3.82,3,medium,systems_evaluation
+21325,Financial Managers,Network within communities to find and attract new business.,3.76,1,high,community_networking
+21314,Financial Managers,Prepare operational or risk reports for management analysis.,3.65,3,high,risk_reporting
+21326,Financial Managers,Review collection reports to determine the status of collections and the amounts of outstanding balances.,3.61,3,high,collections_analysis
+21329,Financial Managers,Review reports of securities transactions or price lists to analyze market conditions.,3.18,3,high,market_analysis
+8870,Treasurers and Controllers,Evaluate needs for procurement of funds and investment of surpluses and make appropriate recommendations.,4.52,3,high,investment_evaluation
+8858,Treasurers and Controllers,"Delegate authority for the receipt, disbursement, banking, protection, and custody of funds, securities, and financial instruments.",4.48,2,high,authority_delegation
+8864,Treasurers and Controllers,"Develop and maintain relationships with banking, insurance, and external accounting personnel to facilitate financial activities.",4.44,1,high,banking_relationships
+20168,Treasurers and Controllers,"Monitor financial activities and details, such as cash flow and reserve levels, to ensure that all legal and regulatory requirements are met.",4.4,3,high,compliance_monitoring
+8861,Treasurers and Controllers,"Receive, record, and authorize requests for disbursements in accordance with company policies and procedures.",4.33,3,high,disbursement_authorization
+8866,Treasurers and Controllers,"Develop internal control policies, guidelines, and procedures for activities, such as budget administration, cash and credit management, and accounting.",4.25,3,medium,policy_development
+8865,Treasurers and Controllers,"Coordinate and direct the financial planning, budgeting, procurement, or investment activities of all or part of an organization.",4.22,3,high,financial_planning
+8872,Treasurers and Controllers,Receive cash and checks and make deposits.,4.2,4,high,cash_deposit_routine
+8856,Treasurers and Controllers,"Prepare or direct preparation of financial statements, business activity reports, financial position forecasts, annual budgets, or reports required by regulatory agencies.",4.14,4,high,financial_statements_prep
+8863,Treasurers and Controllers,"Monitor and evaluate the performance of accounting and other financial staff, recommending and implementing personnel actions, such as promotions and dismissals.",4.09,2,high,staff_performance_eval
+8867,Treasurers and Controllers,"Analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed.",4.08,3,high,financial_opportunity_analysis
+8860,Treasurers and Controllers,Conduct or coordinate audits of company accounts and financial transactions to ensure compliance with state and federal requirements and statutes.,4.06,3,high,audit_coordination
+8868,Treasurers and Controllers,"Advise management on short-term and long-term financial objectives, policies, and actions.",4.0,2,high,strategic_financial_advice
+8859,Treasurers and Controllers,"Maintain current knowledge of organizational policies and procedures, federal and state policies and directives, and current accounting standards.",4.0,3,medium,standards_maintenance
+8869,Treasurers and Controllers,Provide direction and assistance to other organizational units regarding accounting and budgeting policies and procedures and efficient control and utilization of financial resources.,3.9,2,high,accounting_guidance
+8871,Treasurers and Controllers,Lead staff training and development in budgeting and financial management areas.,3.71,2,high,staff_training_leadership
+8855,Treasurers and Controllers,Prepare and file annual tax returns or prepare financial information so that outside accountants can complete tax returns.,4.45,4,high,tax_return_preparation
+8857,Treasurers and Controllers,"Supervise employees performing financial reporting, accounting, billing, collections, payroll, and budgeting duties.",4.33,2,high,staff_supervision
+8874,Treasurers and Controllers,Perform tax planning work.,4.14,3,high,tax_planning
+8873,Treasurers and Controllers,"Compute, withhold, and account for all payroll deductions.",4.0,4,high,payroll_deductions_routine
+20169,Treasurers and Controllers,"Handle all aspects of employee insurance, benefits, and casualty programs, including monitoring changes in health insurance regulations and creating budgets for benefits and worker's compensation.",3.75,3,medium,benefits_administration
+8875,Treasurers and Controllers,"Determine depreciation rates to apply to capitalized items and advise management on actions regarding the purchase, lease, or disposal of such items.",3.0,3,high,depreciation_calculation
+7276,Management Analysts,Gather and organize information on problems or procedures.,4.48,3,high,information_gathering
+7278,Management Analysts,Confer with personnel concerned to ensure successful functioning of newly implemented systems or procedures.,4.48,2,high,change_management
+7277,Management Analysts,Analyze data gathered and develop solutions or alternative methods of proceeding.,4.45,3,high,data_analysis_solutions
+7282,Management Analysts,"Document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.",4.24,3,high,findings_documentation
+7285,Management Analysts,"Plan study of work problems and procedures, such as organizational change, communications, information flow, integrated production methods, inventory control, or cost analysis.",4.1,3,high,work_study_planning
+7281,Management Analysts,"Interview personnel and conduct on-site observation to ascertain unit functions, work performed, and methods, equipment, and personnel used.",4.1,2,high,field_interviews
+7283,Management Analysts,"Prepare manuals and train workers in use of new forms, reports, procedures or equipment, according to organizational policy.",3.84,2,high,training_manual_prep
+7280,Management Analysts,"Review forms and reports and confer with management and users about format, distribution, and purpose, identifying problems and improvements.",3.74,3,high,forms_review
+7279,Management Analysts,"Develop and implement records management program for filing, protection, and retrieval of records, and assure compliance with program.",3.61,3,high,records_management_program
+7284,Management Analysts,"Design, evaluate, recommend, and approve changes of forms and reports.",3.21,3,high,forms_design
+7286,Management Analysts,Recommend purchase of storage equipment and design area layout to locate equipment in space available.,3.21,3,medium,equipment_recommendation
+21505,Accountants and Auditors,Prepare detailed reports on audit findings.,4.58,3,high,audit_report_prep
+21506,Accountants and Auditors,"Report to management about asset utilization and audit results, and recommend changes in operations and financial activities.",4.55,3,high,audit_result_reporting
+21507,Accountants and Auditors,"Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.",4.5,3,high,fraud_compliance_analysis
+21508,Accountants and Auditors,"Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.",4.5,3,high,books_inspection
+21509,Accountants and Auditors,"Supervise auditing of establishments, and determine scope of investigation required.",4.5,2,high,audit_supervision
+21510,Accountants and Auditors,Confer with company officials about financial and regulatory matters.,4.3,2,high,official_consultation
+21511,Accountants and Auditors,"Examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity.",4.3,3,high,systems_controls_exam
+21512,Accountants and Auditors,"Inspect cash on hand, notes receivable and payable, negotiable securities, and canceled checks to confirm records are accurate.",4.25,3,high,cash_securities_inspection
+21513,Accountants and Auditors,Examine records and interview workers to ensure recording of transactions and compliance with laws and regulations.,4.24,3,high,records_examination
+21514,Accountants and Auditors,"Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",4.24,4,high,financial_statements
+21515,Accountants and Auditors,Prepare adjusting journal entries.,4.23,4,high,journal_entries
+21516,Accountants and Auditors,Review accounts for discrepancies and reconcile differences.,4.23,4,high,account_reconciliation
+21517,Accountants and Auditors,Establish tables of accounts and assign entries to proper accounts.,4.14,4,high,account_classification
+21518,Accountants and Auditors,Examine inventory to verify journal and ledger entries.,4.14,3,medium,inventory_examination
+21519,Accountants and Auditors,"Analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",4.03,3,high,operations_analysis
+21520,Accountants and Auditors,Report to management regarding the finances of establishment.,4.03,3,high,financial_reporting
+21521,Accountants and Auditors,"Develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology.",3.99,3,high,recordkeeping_systems
+21522,Accountants and Auditors,"Evaluate taxpayer finances to determine tax liability, using knowledge of interest and discount rates, annuities, valuation of stocks and bonds, and amortization valuation of depletable assets.",3.82,3,high,tax_liability_evaluation
+21523,Accountants and Auditors,"Examine whether the organization's objectives are reflected in its management activities, and whether employees understand the objectives.",3.69,3,medium,objectives_examination
+21524,Accountants and Auditors,"Audit payroll and personnel records to determine unemployment insurance premiums, workers' compensation coverage, liabilities, and compliance with tax laws.",3.47,4,high,payroll_compliance_audit
+21525,Accountants and Auditors,"Review taxpayer accounts, and conduct audits on-site, by correspondence, or by summoning taxpayer to office.",4.22,3,high,taxpayer_audit
+21526,Accountants and Auditors,"Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.",4.14,4,high,tax_computation
+21527,Accountants and Auditors,"Advise clients in areas such as compensation, employee health care benefits, the design of accounting or data processing systems, or long-range tax or estate plans.",4.11,2,high,client_advisory_services
+21529,Accountants and Auditors,"Direct activities of personnel engaged in filing, recording, compiling, and transmitting financial records.",3.8,3,high,records_oversight
+21530,Accountants and Auditors,Conduct pre-implementation audits to determine if systems and programs under development will work as planned.,3.69,3,high,pre_impl_audit
+21531,Accountants and Auditors,"Develop, maintain, or analyze budgets, preparing periodic reports that compare budgeted costs to actual costs.",,3,high,budget_analysis
+21532,Accountants and Auditors,"Prepare, analyze, or verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",,4,high,annual_reports_prep
+21533,Accountants and Auditors,Process invoices for payment.,,4,high,invoice_processing
+21534,Accountants and Auditors,"Review data about material assets, net worth, liabilities, capital stock, surplus, income, or expenditures.",,3,high,assets_liabilities_review
+3394,Budget Analysts,Analyze monthly department budgeting and accounting reports to maintain expenditure controls.,4.37,3,high,budget_analysis
+3398,Budget Analysts,"Provide advice and technical assistance with cost analysis, fiscal allocation, and budget preparation.",4.35,3,high,cost_analysis_assistance
+3401,Budget Analysts,Review operating budgets to analyze trends affecting budget needs.,4.15,3,high,budget_trend_review
+3405,Budget Analysts,Compile and analyze accounting records and other data to determine the financial resources required to implement a program.,4.12,3,high,resource_planning
+3402,Budget Analysts,"Examine budget estimates for completeness, accuracy, and conformance with procedures and regulations.",4.08,3,high,budget_examination
+3399,Budget Analysts,Summarize budgets and submit recommendations for the approval or disapproval of funds requests.,4.07,3,high,budget_summarization
+3396,Budget Analysts,Consult with managers to ensure that budget adjustments are made in accordance with program changes.,4.06,2,high,manager_budget_consultation
+3395,Budget Analysts,Direct the preparation of regular and special budget reports.,4.02,2,high,report_direction
+3404,Budget Analysts,Interpret budget directives and establish policies for carrying out directives.,4.0,2,high,policy_interpretation
+3403,Budget Analysts,"Perform cost-benefit analyses to compare operating programs, review financial requests, or explore alternative financing methods.",3.7,3,high,cost_benefit_analysis
+3397,Budget Analysts,"Match appropriations for specific programs with appropriations for broader programs, including items for emergency funds.",3.49,3,high,appropriations_matching
+3400,Budget Analysts,Seek new ways to improve efficiency and increase profits.,3.36,3,medium,efficiency_analysis
+3406,Budget Analysts,"Testify before examining and fund-granting authorities, clarifying and promoting the proposed budgets.",3.81,1,high,public_testimony
+1250,Credit Analysts,Analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money.,4.9,3,high,credit_risk_analysis
+1254,Credit Analysts,"Complete loan applications, including credit analyses and summaries of loan requests, and submit to loan committees for approval.",4.76,4,high,loan_application_processing
+1255,Credit Analysts,"Generate financial ratios, using computer programs, to evaluate customers' financial status.",4.55,4,high,financial_ratios_computation
+1251,Credit Analysts,Prepare reports that include the degree of risk involved in extending credit or lending money.,4.55,3,high,risk_reporting
+1259,Credit Analysts,"Analyze financial data, such as income growth, quality of management, and market share to determine expected profitability of loans.",4.53,3,high,profitability_analysis
+1257,Credit Analysts,"Compare liquidity, profitability, and credit histories of establishments being evaluated with those of similar establishments in the same industries and geographic locations.",4.25,3,high,comparative_analysis
+1258,Credit Analysts,Consult with customers to resolve complaints and verify financial and credit transactions.,3.07,2,high,customer_complaint_resolution
+21164,Credit Analysts,Contact customers to collect payments on delinquent accounts.,4.0,2,high,payment_collection
+1252,Credit Analysts,"Evaluate customer records and recommend payment plans, based on earnings, savings data, payment history, and purchase activity.",3.69,3,high,payment_plan_evaluation
+1256,Credit Analysts,Review individual or commercial customer files to identify and select delinquent accounts for collection.,3.31,4,high,delinquent_account_review
+1253,Credit Analysts,Confer with credit association and other business representatives to exchange credit information.,3.08,2,high,credit_association_networking
+21579,Financial and Investment Analysts,"Advise clients on aspects of capitalization, such as amounts, sources, or timing.",,2,high,capitalization_advisory
+21580,Financial and Investment Analysts,Analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.,,3,high,distress_analysis
+21581,Financial and Investment Analysts,Assess companies as investments for clients by examining company facilities.,,2,high,facility_assessment
+21582,Financial and Investment Analysts,"Collaborate on projects with other professionals, such as lawyers, accountants, or public relations experts.",,2,high,professional_collaboration
+21583,Financial and Investment Analysts,Collaborate with investment bankers to attract new corporate clients.,,2,high,banker_collaboration
+21584,Financial and Investment Analysts,Conduct financial analyses related to investments in green construction or green retrofitting projects.,,3,high,green_financial_analysis
+21585,Financial and Investment Analysts,"Confer with clients to restructure debt, refinance debt, or raise new debt.",,2,high,debt_restructuring_advisory
+21586,Financial and Investment Analysts,Create client presentations of plan details.,,3,high,client_presentations
+21587,Financial and Investment Analysts,Determine the prices at which securities should be syndicated and offered to the public.,,3,high,securities_syndication_pricing
+21588,Financial and Investment Analysts,Develop and maintain client relationships.,,1,high,client_relationship_mgmt
+21589,Financial and Investment Analysts,"Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",,3,high,charts_visualization
+21590,Financial and Investment Analysts,Employ financial models to develop solutions to financial problems or to assess the financial or capital impact of transactions.,,3,high,financial_modeling
+21591,Financial and Investment Analysts,Evaluate and compare the relative quality of various securities in a given industry.,,3,high,securities_evaluation
+21592,Financial and Investment Analysts,Evaluate capital needs of clients and assess market conditions to inform structuring of financial packages.,,3,high,capital_market_evaluation
+21593,Financial and Investment Analysts,"Inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.",,3,high,investment_analysis
+21594,Financial and Investment Analysts,"Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",,3,high,data_interpretation
+21595,Financial and Investment Analysts,"Monitor developments in the fields of industrial technology, business, finance, and economic theory.",,3,high,industry_monitoring
+21596,Financial and Investment Analysts,"Monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews.",,3,high,economic_monitoring
+21597,Financial and Investment Analysts,Perform securities valuation or pricing.,,3,high,securities_valuation
+21598,Financial and Investment Analysts,Prepare all materials for transactions or execution of deals.,,3,high,transaction_materials
+21599,Financial and Investment Analysts,"Prepare plans of action for investment, using financial analyses.",,3,high,investment_planning
+21600,Financial and Investment Analysts,"Present oral or written reports on general economic trends, individual corporations, and entire industries.",,3,high,economic_reporting
+21601,Financial and Investment Analysts,Purchase investments for companies in accordance with company policy.,,3,high,investment_execution
+21602,Financial and Investment Analysts,"Recommend investments and investment timing to companies, investment firm staff, or the public.",,3,high,investment_recommendation
+21603,Financial and Investment Analysts,"Specialize in green financial instruments, such as socially responsible mutual funds or exchange-traded funds (ETF) that are comprised of green companies.",,3,medium,green_instruments_spec
+21604,Financial and Investment Analysts,"Supervise, train, or mentor junior team members.",,2,high,junior_mentoring
+12907,Personal Financial Advisors,"Interview clients to determine their current income, expenses, insurance coverage, tax status, financial objectives, risk tolerance, or other information needed to develop a financial plan.",4.65,2,high,client_financial_interview
+12904,Personal Financial Advisors,Analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.,4.62,3,high,financial_strategy_analysis
+12905,Personal Financial Advisors,Answer clients' questions about the purposes and details of financial plans and strategies.,4.54,2,high,client_plan_questions
+20183,Personal Financial Advisors,"Review clients' accounts and plans regularly to determine whether life changes, economic changes, environmental concerns, or financial performance indicate a need for plan reassessment.",4.46,3,high,account_plan_review
+20184,Personal Financial Advisors,"Manage client portfolios, keeping client plans up-to-date.",4.44,3,high,portfolio_management
+20182,Personal Financial Advisors,"Recommend to clients strategies in cash management, insurance coverage, investment planning, or other areas to help them achieve their financial goals.",4.42,2,high,strategy_recommendation
+20189,Personal Financial Advisors,"Recommend financial products, such as stocks, bonds, mutual funds, or insurance.",4.21,3,high,product_recommendation
+12909,Personal Financial Advisors,"Implement financial planning recommendations, or refer clients to someone who can assist them with plan implementation.",4.19,3,high,plan_implementation
+12915,Personal Financial Advisors,Contact clients periodically to determine any changes in their financial status.,4.12,2,high,periodic_client_contact
+12913,Personal Financial Advisors,"Prepare or interpret for clients information, such as investment performance reports, financial document summaries, or income projections.",4.04,3,high,performance_reporting
+20186,Personal Financial Advisors,Explain to clients the personal financial advisor's responsibilities and the types of services to be provided.,4.0,2,high,services_explanation
+20187,Personal Financial Advisors,Investigate available investment opportunities to determine compatibility with client financial plans.,3.96,3,high,investment_opportunity_research
+12914,Personal Financial Advisors,"Guide clients in the gathering of information, such as bank account records, income tax returns, life and disability insurance records, pension plans, or wills.",3.83,2,high,document_gathering_guidance
+20188,Personal Financial Advisors,Monitor financial market trends to ensure that client plans are responsive.,3.58,3,high,market_trend_monitoring
+20185,Personal Financial Advisors,Recruit and maintain client bases.,3.5,1,high,client_base_recruitment
+12916,Personal Financial Advisors,"Meet with clients' other advisors, such as attorneys, accountants, trust officers, or investment bankers, to fully understand clients' financial goals and circumstances.",3.4,2,high,advisor_coordination
+12917,Personal Financial Advisors,Devise debt liquidation plans that include payoff priorities and timelines.,3.35,3,high,debt_liquidation_planning
+12918,Personal Financial Advisors,"Open accounts for clients, and disburse funds from accounts to creditors as agent for clients.",3.85,3,high,account_management
+19570,Personal Financial Advisors,"Inform clients about tax benefits, government rebates, or other financial benefits of alternative-fuel vehicle purchases or energy-efficient home construction, improvements, or remodeling.",2.75,3,medium,tax_benefit_information
+19571,Personal Financial Advisors,"Recommend environmentally responsible investments, such as cleantech, alternative energy, or conservation technologies, companies, or funds.",2.56,3,medium,green_investment_rec
+12919,Personal Financial Advisors,"Conduct seminars or workshops on financial planning topics, such as retirement planning, estate planning, or the evaluation of severance packages.",2.07,1,high,seminars_workshops
+21605,Financial Risk Specialists,"Analyze areas of potential risk to the assets, earning capacity, or success of organizations.",,3,high,risk_area_analysis
+21606,Financial Risk Specialists,Analyze new legislation to determine impact on risk exposure.,,3,high,legislation_risk_analysis
+21607,Financial Risk Specialists,"Conduct statistical analyses to quantify risk, using statistical analysis software or econometric models.",,3,high,statistical_risk_quantification
+21608,Financial Risk Specialists,Confer with traders to identify and communicate risks associated with specific trading strategies or positions.,,2,high,trader_risk_communication
+21609,Financial Risk Specialists,Consult financial literature to ensure use of the latest models or statistical techniques.,,3,medium,literature_research
+21610,Financial Risk Specialists,Contribute to development of risk management systems.,,3,high,risk_system_development
+21611,Financial Risk Specialists,Determine potential environmental impacts of new products or processes on long-term growth and profitability.,,3,high,environmental_impact_analysis
+21612,Financial Risk Specialists,Develop contingency plans to deal with emergencies.,,3,high,contingency_planning
+21613,Financial Risk Specialists,Develop or implement risk-assessment models or methodologies.,,3,high,risk_model_development
+21614,Financial Risk Specialists,Devise scenario analyses reflecting possible severe market events.,,3,high,scenario_analysis
+21615,Financial Risk Specialists,Devise systems or processes to monitor validity of risk assessments.,,3,high,monitoring_system_design
+21616,Financial Risk Specialists,"Document, and ensure communication of, key risks.",,3,high,risk_documentation
+21617,Financial Risk Specialists,"Draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",,3,high,charts_visualization
+21618,Financial Risk Specialists,Evaluate and compare the relative quality of various securities in a given industry.,,3,high,securities_quality_eval
+21619,Financial Risk Specialists,Evaluate the risks and benefits involved in implementing green building technologies.,,3,high,green_building_risk
+21620,Financial Risk Specialists,"Evaluate the risks related to green investments, such as renewable energy company stocks.",,3,high,green_investment_risk
+21621,Financial Risk Specialists,Gather risk-related data from internal or external resources.,,3,high,risk_data_gathering
+21622,Financial Risk Specialists,"Identify key risks and mitigating factors of potential investments, such as asset types and values, legal and ownership structures, professional reputations, customer bases, or industry segments.",,3,high,risk_factor_identification
+21623,Financial Risk Specialists,"Inform financial decisions by analyzing financial information to forecast business, industry, or economic conditions.",,3,high,financial_decision_analysis
+21624,Financial Risk Specialists,"Interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",,3,high,price_yield_interpretation
+21625,Financial Risk Specialists,Maintain input or data quality of risk management systems.,,3,high,data_quality_maintenance
+21626,Financial Risk Specialists,"Meet with clients to answer queries on subjects such as risk exposure, market scenarios, or values-at-risk calculations.",,2,high,client_risk_meetings
+21627,Financial Risk Specialists,"Monitor developments in the fields of industrial technology, business, finance, and economic theory.",,3,high,developments_monitoring
+21628,Financial Risk Specialists,"Prepare plans of action for investment, using financial analyses.",,3,high,investment_action_planning
+21629,Financial Risk Specialists,"Produce reports or presentations that outline findings, explain risk positions, or recommend changes.",,3,high,risk_findings_reporting
+21630,Financial Risk Specialists,Provide statistical modeling advice to other departments.,,3,high,statistical_modeling_advice
+21631,Financial Risk Specialists,"Recommend investments and investment timing to companies, investment firm staff, or the public.",,3,high,investment_timing_recommendation
+21632,Financial Risk Specialists,Recommend ways to control or reduce risk.,,3,high,risk_control_recommendation
+21633,Financial Risk Specialists,Review or draft risk disclosures for offer documents.,,3,high,risk_disclosure_review
+21634,Financial Risk Specialists,"Track, measure, or report on aspects of market risk for traded issues.",,3,high,market_risk_tracking
+7324,Financial Examiners,"Direct and participate in formal and informal meetings with bank directors, trustees, senior management, counsels, outside accountants, and consultants to gather information and discuss findings.",4.73,1,high,regulatory_institutional_meetings
+7317,Financial Examiners,"Recommend actions to ensure compliance with laws and regulations, or to protect solvency of institutions.",4.65,2,high,compliance_recommendation
+7319,Financial Examiners,"Prepare reports, exhibits, and other supporting schedules that detail an institution's safety and soundness, compliance with laws and regulations, and recommended solutions to questionable financial conditions.",4.45,3,high,safety_soundness_reports
+7327,Financial Examiners,"Resolve problems concerning the overall financial integrity of banking institutions including loan investment portfolios, capital, earnings, and specific or large troubled accounts.",4.24,2,high,loan_portfolio_resolution
+7314,Financial Examiners,Investigate activities of institutions to enforce laws and regulations and to ensure legality of transactions and operations or financial solvency.,4.17,2,high,regulatory_investigation
+7320,Financial Examiners,"Review balance sheets, operating income and expense accounts, and loan documentation to confirm institution assets and liabilities.",4.13,3,high,balance_sheet_review
+7316,Financial Examiners,"Plan, supervise, and review work of assigned subordinates.",4.13,2,high,subordinate_supervision
+7321,Financial Examiners,Review audit reports of internal and external auditors to monitor adequacy of scope of reports or to discover specific weaknesses in internal routines.,4.04,3,high,audit_report_review
+7318,Financial Examiners,"Examine the minutes of meetings of directors, stockholders, and committees to investigate the specific authority extended at various levels of management.",3.96,3,high,meeting_minutes_exam
+7322,Financial Examiners,Train other examiners in the financial examination process.,3.83,2,high,examiner_training
+7323,Financial Examiners,Establish guidelines for procedures and policies that comply with new and revised regulations and direct their implementation.,3.78,3,high,regulatory_guidelines
+7315,Financial Examiners,"Review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact.",3.74,3,high,law_regulation_analysis
+20190,Financial Examiners,Provide regulatory compliance training to employees.,3.59,2,high,compliance_training
+7328,Financial Examiners,Evaluate data processing applications for institutions under examination to develop recommendations for coordinating existing systems with examination procedures.,3.5,3,high,data_systems_evaluation
+7326,Financial Examiners,"Review applications for mergers, acquisitions, establishment of new institutions, acceptance in Federal Reserve System, or registration of securities sales to determine their public interest value and conformance to regulations, and recommend acceptance or rejection.",3.5,2,high,merger_application_review
+7325,Financial Examiners,"Verify and inspect cash reserves, assigned collateral, and bank-owned securities to check internal control procedures.",3.24,3,high,cash_reserves_inspection
+7329,Financial Examiners,"Confer with officials of real estate, securities, or financial institution industries to exchange views and discuss issues or pending cases.",2.94,2,high,industry_official_exchange
+7358,Tax Preparers,"Compute taxes owed or overpaid, using adding machines or personal computers, and complete entries on forms, following tax form instructions and tax tables.",4.75,4,high,tax_computation_forms
+7360,Tax Preparers,"Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum.",4.71,3,high,deductions_optimization
+7363,Tax Preparers,Furnish taxpayers with sufficient information and advice to ensure correct tax form completion.,4.57,3,high,taxpayer_form_advice
+7361,Tax Preparers,Interview clients to obtain additional information on taxable income and deductible expenses and allowances.,4.57,2,high,client_tax_interview
+7359,Tax Preparers,Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.,4.5,3,high,tax_return_preparation
+7362,Tax Preparers,"Review financial records, such as income statements and documentation of expenditures to determine forms needed to prepare tax returns.",4.45,3,high,financial_records_review
+7366,Tax Preparers,"Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures.",4.37,4,high,data_input_verification
+20364,Tax Preparers,Explain federal and state tax laws to individuals and companies.,4.21,3,high,tax_law_explanation
+20363,Tax Preparers,Answer questions and provide future tax planning to clients.,4.2,3,high,tax_planning_advice
+7364,Tax Preparers,Consult tax law handbooks or bulletins to determine procedures for preparation of atypical returns.,4.2,3,high,handbook_research
+7365,Tax Preparers,Calculate form preparation fees according to return complexity and processing time required.,4.05,3,high,fee_calculation
+21165,Tax Preparers,Schedule appointments with clients.,3.75,4,high,appointment_scheduling
+2487,"Bookkeeping, Accounting, and Auditing Clerks","Operate computers programmed with accounting software to record, store, and analyze information.",4.76,5,high,accounting_software_automation
+2486,"Bookkeeping, Accounting, and Auditing Clerks","Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes.",4.68,4,high,figures_accuracy_check
+2488,"Bookkeeping, Accounting, and Auditing Clerks","Comply with federal, state, and company policies, procedures, and regulations.",4.57,3,medium,compliance_policy_maintenance
+2495,"Bookkeeping, Accounting, and Auditing Clerks","Operate 10-key calculators, typewriters, and copy machines to perform calculations and produce documents.",4.47,4,high,calculator_routine_ops
+2500,"Bookkeeping, Accounting, and Auditing Clerks","Receive, record, and bank cash, checks, and vouchers.",4.46,4,high,cash_banking_routine
+2493,"Bookkeeping, Accounting, and Auditing Clerks",Code documents according to company procedures.,4.32,4,high,document_coding
+2497,"Bookkeeping, Accounting, and Auditing Clerks","Perform financial calculations, such as amounts due, interest charges, balances, discounts, equity, and principal.",4.32,4,high,financial_calculations
+2496,"Bookkeeping, Accounting, and Auditing Clerks",Reconcile or note and report discrepancies found in records.,4.29,4,high,discrepancy_reconciliation
+2498,"Bookkeeping, Accounting, and Auditing Clerks","Perform general office duties, such as filing, answering telephones, and handling routine correspondence.",4.24,4,high,general_office_tasks
+2494,"Bookkeeping, Accounting, and Auditing Clerks",Access computerized financial information to answer general questions as well as those related to specific accounts.,4.19,4,high,financial_data_access
+2490,"Bookkeeping, Accounting, and Auditing Clerks","Classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers.",4.17,4,high,data_classification_entry
+2489,"Bookkeeping, Accounting, and Auditing Clerks","Debit, credit, and total accounts on computer spreadsheets and databases, using specialized accounting software.",4.15,5,high,debit_credit_software
+2509,"Bookkeeping, Accounting, and Auditing Clerks","Match order forms with invoices, and record the necessary information.",4.12,4,high,invoice_order_matching
+18561,"Bookkeeping, Accounting, and Auditing Clerks",Prepare and process payroll information.,4.71,4,high,payroll_processing
+2499,"Bookkeeping, Accounting, and Auditing Clerks","Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks.",4.61,4,high,bank_deposit_preparation
+2501,"Bookkeeping, Accounting, and Auditing Clerks","Calculate and prepare checks for utilities, taxes, and other payments.",4.44,4,high,check_payment_calculation
+2505,"Bookkeeping, Accounting, and Auditing Clerks",Monitor status of loans and accounts to ensure that payments are up to date.,4.4,4,high,loan_payment_monitoring
+2503,"Bookkeeping, Accounting, and Auditing Clerks",Reconcile records of bank transactions.,4.38,4,high,bank_transaction_reconciliation
+2507,"Bookkeeping, Accounting, and Auditing Clerks","Compile budget data and documents, based on estimated revenues and expenses and previous budgets.",4.33,4,high,budget_data_compilation
+2502,"Bookkeeping, Accounting, and Auditing Clerks",Compare computer printouts to manually maintained journals to determine if they match.,4.23,4,high,printout_journal_comparison
+2506,"Bookkeeping, Accounting, and Auditing Clerks",Transfer details from separate journals to general ledgers or data processing sheets.,4.2,5,high,journal_ledger_transfer
+2510,"Bookkeeping, Accounting, and Auditing Clerks","Complete and submit tax forms and returns, workers' compensation forms, pension contribution forms, and other government documents.",4.17,4,high,tax_form_completion
+2491,"Bookkeeping, Accounting, and Auditing Clerks","Calculate, prepare, and issue bills, invoices, account statements, and other financial statements according to established procedures.",4.16,4,high,billing_invoice_preparation
+2508,"Bookkeeping, Accounting, and Auditing Clerks","Calculate costs of materials, overhead, and other expenses, based on estimates, quotations and price lists.",4.14,4,high,materials_cost_calculation
+2514,"Bookkeeping, Accounting, and Auditing Clerks",Prepare purchase orders and expense reports.,4.11,4,high,purchase_order_prep
+2504,"Bookkeeping, Accounting, and Auditing Clerks",Prepare trial balances of books.,4.08,4,high,trial_balance_prep
+2492,"Bookkeeping, Accounting, and Auditing Clerks","Compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses.",3.97,4,high,statistical_report_compilation
+2511,"Bookkeeping, Accounting, and Auditing Clerks",Maintain inventory records.,3.57,4,high,inventory_record_maintenance
